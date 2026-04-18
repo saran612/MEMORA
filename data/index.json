@@ -1,0 +1,22 @@
+{
+    "files": {
+        "memora_project.md": {
+            "path": "data/processed/memora_project.md",
+            "hash": "a8d4662ed279e3245cbd260a844b5013",
+            "indexed_at": "2026-04-18T15:10:36.341604",
+            "status": "indexed"
+        },
+        "ai_agents.txt": {
+            "path": "data/processed/ai_agents.md",
+            "hash": "2bbe17905d28b299fbf879a3951ca65f",
+            "indexed_at": "2026-04-18T15:15:21.974018",
+            "status": "indexed"
+        },
+        "ai_agents.md": {
+            "path": "data/processed/ai_agents.md",
+            "hash": "2bbe17905d28b299fbf879a3951ca65f",
+            "indexed_at": "2026-04-18T20:30:20.890621",
+            "status": "indexed"
+        }
+    }
+}

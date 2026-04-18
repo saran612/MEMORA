@@ -1,0 +1,36 @@
+{
+    "nodes": [
+        "ai_agents",
+        "memora_project"
+    ],
+    "edges": [
+        {
+            "source": "ai_agents",
+            "target": "gpt-4"
+        },
+        {
+            "source": "ai_agents",
+            "target": "Web Search"
+        },
+        {
+            "source": "ai_agents",
+            "target": "Qdrant"
+        },
+        {
+            "source": "ai_agents",
+            "target": "llama-3"
+        },
+        {
+            "source": "memora_project",
+            "target": "Architecture"
+        },
+        {
+            "source": "memora_project",
+            "target": "Ollama"
+        },
+        {
+            "source": "memora_project",
+            "target": "Qdrant"
+        }
+    ]
+}
